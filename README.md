@@ -25,7 +25,7 @@ var data = leybold.decode( string, [offset[, length]] )
 
 Result:
 
-```
+```js
 {
   title: 'Au sample deposited by Zr for 20 min   ',
   meta: Map { 'TotalNumOfRegions' => '4' },
