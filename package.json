@@ -1,0 +1,36 @@
+{
+  "name": "leybold-xps",
+  "description": "Parse & write the Leybold XPS data format",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "xps",
+    "esca",
+    "leybold",
+    "data",
+    "format",
+    "encode",
+    "decode",
+    "xray",
+    "x-ray",
+    "photoelectron",
+    "spectroscopy",
+    "xpspeak",
+    "spectrum",
+    "spectra",
+    "analysis"
+  ],
+  "homepage": "https://github.com/jhermsmeier/node-leybold-xps",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-leybold-xps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-leybold-xps/issues"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
