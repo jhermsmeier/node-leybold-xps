@@ -9,6 +9,7 @@ var contents = fs.readFileSync( filename, 'utf8' )
 var data = leybold.decode( contents )
 var output = util.inspect( data, {
   depth: null,
+  maxArrayLength: Infinity,
   colors: true,
 })
 
