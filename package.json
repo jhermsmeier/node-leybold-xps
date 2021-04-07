@@ -31,6 +31,9 @@
     "url": "https://github.com/jhermsmeier/node-leybold-xps/issues"
   },
   "scripts": {
-    "test": "node test"
+    "test": "control test"
+  },
+  "devDependencies": {
+    "@jhermsmeier/control": "^1.3.0"
   }
 }
